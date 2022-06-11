@@ -17,7 +17,7 @@ Olá, eu sou o Johanne Carlos
 
 ## Meus contatos
 
-- Twitter @johanne_carlos
-- GitHub @johannecarlos
-- Instagram @johannecarlos_
+- https://www.linkedin.com/in/johannecarlos/
+- https://www.githubjohannecarlos/
+- https://www.instagram.com/johannecarlos_/
 - Email johannecarlosrosa13@gmail.com
