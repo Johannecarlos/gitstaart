@@ -20,4 +20,4 @@ Olá, eu sou o Johanne Carlos
 - https://www.linkedin.com/in/johannecarlos/
 - https://www.githubjohannecarlos/
 - https://www.instagram.com/johannecarlos_/
-- Email johannecarlosrosa13@gmail.com
+- johannecarlosrosa13@gmail.com
